@@ -13,8 +13,8 @@
 - Add hosted link to README.md file
 ---
 # Submission Required:
-- Github repository link: [Click here](https://github.com/Abhishek-Sharma-007/very-basic-resume)
-- Github readme file with hosted link
+- Github repository link: [Click Here](https://github.com/Abhishek-Sharma-007/very-basic-resume)
+- Github readme file with hosted link: [Click Here](https://abhishek-sharma-007.github.io/very-basic-resume/)
 - Screenshot of every command that is needed to complete the task
 - 
   ![1](https://github.com/Abhishek-Sharma-007/very-basic-resume/assets/84591804/646513e2-1256-4610-98d8-7cd6cd74ddef)
